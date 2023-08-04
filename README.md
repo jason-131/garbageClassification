@@ -2,7 +2,7 @@
 
 This project uses AI to classify different types of garbage. 
 
-![image](https://github.com/jason-131/garbageClassification/assets/30334711/257a00c9-84fd-4378-b5c6-28c896d3e484)
+![image](https://github.com/jason-131/garbageClassification/assets/30334711/db7ad74b-59b6-40ab-b54a-0ddf063c9bc2)
 
 
 ## The Algorithm
